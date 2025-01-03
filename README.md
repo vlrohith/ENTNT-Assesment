@@ -5,7 +5,8 @@ To get this project up and running on your local machine, follow these steps:
 
 Clone the repository to your local machine using:
 
-git clone 
+git clone   
+https://github.com/vlrohith/ENTNT-Assesment/blob/main/README.md
 Navigate into the project directory:
 
 cd project
